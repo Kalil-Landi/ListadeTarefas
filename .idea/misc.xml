@@ -4,12 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ANDROID/ListadeTarefas/app/src/main/res/layout/activity_main.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.194" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/drawable/ic_save_24.xml" value="0.2115" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/drawable/ic_teste_foreground.xml" value="0.194" />
         <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/activity_add_tarefa.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/lista_tarefas_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/layout/lista_tarefas_adapter.xml" value="0.25" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/menu/menu_adicionar_tarefa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Kalil/AndroidStudioProjects/ListadeTarefas/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
